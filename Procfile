@@ -1,0 +1,1 @@
+web gunicorn compranoletxea.wsgi:application --log-file -
